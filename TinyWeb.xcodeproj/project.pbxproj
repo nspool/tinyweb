@@ -26,7 +26,6 @@
 		73343E001B6A2AAA00E6236C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		73343E061B6A2B4800E6236C /* HttpServer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HttpServer.swift; sourceTree = "<group>"; };
 		73343E081B6A2B5000E6236C /* HTTPResponseHandler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HTTPResponseHandler.swift; sourceTree = "<group>"; };
-		7351AE1C1B6E0D1E00DE4B18 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,7 +66,6 @@
 				73343E001B6A2AAA00E6236C /* Info.plist */,
 				73343E061B6A2B4800E6236C /* HttpServer.swift */,
 				73343E081B6A2B5000E6236C /* HTTPResponseHandler.swift */,
-				7351AE1C1B6E0D1E00DE4B18 /* README.md */,
 			);
 			path = TinyWeb;
 			sourceTree = "<group>";
